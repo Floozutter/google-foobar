@@ -1,6 +1,6 @@
 Java
 ====
-Your code will be compiled using standard Java 8. All tests will be run by calling the solution() method inside the Solution class
+Your code will be compiled using standard Java 8. All tests will be run by calling the solution() method inside the Solution class.
 
 Execution time is limited.
 
